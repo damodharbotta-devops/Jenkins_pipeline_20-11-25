@@ -36,5 +36,12 @@ pipeline {
                 deploy adapters: [tomcat9(alternativeDeploymentContext: '', credentialsId: 'appserver', path: '', url: 'http://54.221.17.215:8080/')], contextPath: 'myapp', war: 'target/*.war'
             }
         }
+        stage ("Email notifications") {
+            steps {
+                mail to: 'bottadamodhar@gmail.com',
+                subject: "PIPELINE STATUS: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
+                body: "*${currentBuild.currentResult}:* Job ${env.JOB_NAME} \n build ${env.BUILD_NUMBER} \n More info at: ${env.BUILD_URL}"
+            }
+        }
     }
 }
