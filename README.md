@@ -29,11 +29,23 @@
 2. SonarQube Scanner
 3. Nexus Artifact Uploader
 4. Deplot to Container
+5. Email Extension Template
 
 <img width="1917" height="574" alt="Screenshot 2026-06-20 151428" src="https://github.com/user-attachments/assets/a184bd36-7a65-4453-9093-b1e8baefdad0" />
 <img width="1862" height="822" alt="Screenshot 2026-06-20 155204" src="https://github.com/user-attachments/assets/75d3e4fb-0bdb-4435-8dde-34f36c14d0db" />
 <img width="1902" height="578" alt="Screenshot 2026-06-20 165922" src="https://github.com/user-attachments/assets/7c512b09-2b54-4e40-aed9-f96f225459e9" />
 <img width="1919" height="506" alt="Screenshot 2026-06-20 182410" src="https://github.com/user-attachments/assets/c340372e-7ab1-4c5e-ac6f-7ec0fadaff3a" />
 <img width="1917" height="911" alt="Screenshot 2026-06-20 195439" src="https://github.com/user-attachments/assets/9cf30fa1-cc86-4cee-9ee8-f58b2d4f6659" />
+
+# i) Insatll Git in Jenkins server and write the pipeline syntax for stage 1 code.
+# ii) In stage 2: Code Quality Analysis: write the pipe line syantax and integrate with Jenkins.
+# iii) In stage 3: write the pipeline syntax to Build the code and integrate maven with jenkins
+
+<img width="1779" height="701" alt="Screenshot 2026-06-20 155043" src="https://github.com/user-attachments/assets/3b7f4b9a-79f3-4a2a-851c-b1438300219e" />
+<img width="1916" height="877" alt="Screenshot 2026-06-20 155802" src="https://github.com/user-attachments/assets/1e177ece-d99d-47fc-8dcc-812efaf4a8cd" />
+<img width="1903" height="1008" alt="Screenshot 2026-06-20 155840" src="https://github.com/user-attachments/assets/1d84c4d9-f30e-41d5-b889-39d3d3884ef9" />
+
+<img width="1887" height="1005" alt="Screenshot 2026-06-20 170113" src="https://github.com/user-attachments/assets/47120e58-1238-4700-ab13-7bf9bfcc47d6" />
+
 
 
