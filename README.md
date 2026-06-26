@@ -57,9 +57,11 @@
 # v) In deploy stage, write the pipeline syntax for tomcat and integrate tomcat with Jenkins
 # Deploy the application in tomcat server
 
+<img width="1905" height="1022" alt="Screenshot 2026-06-20 195404" src="https://github.com/user-attachments/assets/fb83c296-cfde-4a8c-b8a9-bc478b3520b4" />
 <img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/89c1c8cf-9ded-4c2c-8643-d5689d8cf2a1" />
 <img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/6294bee7-61c6-4d23-bdda-f567b41c1603" />
-<img width="1905" height="1022" alt="Screenshot 2026-06-20 195404" src="https://github.com/user-attachments/assets/fb83c296-cfde-4a8c-b8a9-bc478b3520b4" />
+<img width="1898" height="1018" alt="Screenshot 2026-06-20 193605" src="https://github.com/user-attachments/assets/74ab3607-a685-44a6-b312-fcc76a69d8fe" />
+
 
 # Vi) Post build actions Email integration: Integrate Email with Jenkins to get updates of build actions
 <img width="1919" height="745" alt="Screenshot 2026-06-20 200527" src="https://github.com/user-attachments/assets/aadbba26-23a4-4cf6-b91c-094f9cc03ab4" />
